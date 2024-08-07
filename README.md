@@ -206,7 +206,7 @@ By following these steps, you can play the Red Blue Nim Game and experience the 
 4. **Follow the Prompts**: Enter the number of red and blue marbles, select the game version, and choose the first player as prompted by the program.
 
 ### Running the Code in Google Colab
-1. **Upload the Code**: Upload the `red_blue_nim_game.py` file to your Google Colab environment.
+1. **Upload the Code**: Upload the `DEP_Red_Blue_Nim_Game.py` file to your Google Colab environment.
 2. **Run the Code**: Open a new code cell in Colab and run the following command:
     ```python
     python DEP_Red_Blue_Nim_Game.py
